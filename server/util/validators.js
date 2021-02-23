@@ -31,7 +31,7 @@ module.exports.validateRegisterInput = (
   } else {
     const regEx = /((?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[!@#$%&*/()]).{8,40})/;
     if (!password.match(regEx)) {
-      errors.password = 'The password must have at least 8 characters with one uppercase letter, one lowercase letter, one digit and one special character of !@#$%&amp;*()'
+      errors.password = 'The password must have at least 8 characters with one uppercase letter, one lowercase letter, one digit and one special character of !@#$%&*/()'
     }
   }
 
