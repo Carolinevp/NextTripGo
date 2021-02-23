@@ -16,7 +16,7 @@ NextTripGo is built in React, TypeScript, GraphQL, Node.js, Express and MongoDB.
 
 ### Previews
 
-<img src="./readme/Screenshot 3.png" alt="Untitled design (1)" style="zoom:25%;" /><img src="./readme/Screenshot 4.png" alt="Untitled design" style="zoom:25%;" />
+<img src="./readMe/Screenshot 3.png" alt="Untitled design (1)" style="zoom:25%;" /><img src="./readMe/Screenshot 4.png" alt="Untitled design" style="zoom:25%;" />
 
 ### Prerequisites
 
